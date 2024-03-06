@@ -27,9 +27,9 @@ This was wrriten using Python 3 and Jupyter Noobok
 ## Script steps
 To make a bit easier to undestand I will describe how the script suppost to work. 
    1. Open a chrome window and call the gmail page
-   2. Log to your gmail inbox
+   2. Login to your gmail inbox
    3. Pass by the google Autentication 
-   4. Open the html verion of gmail inbox
+   4. Open the html version of gmail inbox
    5. Read the email folder expected
    6. Analyze the email body
    6. Respond the email or close the page
